@@ -6,7 +6,8 @@ title: Benjamin Bowen's Resume
 
 
 <div id="webaddress">
-<a href="bentbowen@yahoo.com">datascience@byui.edu</a>
+<a href="bentbowen@yahoo.com">Email</a>
+| <a href="702-292-6944">702-292-6944</a>
 | <a href="https://www.linkedin.com/in/benjamin-bowen-78ab9b183/">LinkedIn</a>
 | <a href="https://github.com/Bowenator">GitHub</a>
 </div>
