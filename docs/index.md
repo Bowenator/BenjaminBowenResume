@@ -50,7 +50,7 @@ __BYU-I and RBDC__, Rexburg, ID
 ## Service and Work History
 
 `2015-2017`
-__Service Missionary__, Houston, TX
+__Missionary__, Houston, TX
 
 ### Warehouse Dock Hand
 `2022`
