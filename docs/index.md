@@ -2,7 +2,7 @@
 layout: cv
 title: Benjamin Bowen's Resume
 ---
-# Benjamin Bowen
+# Benjamin Taren Bowen
 
 <div id="webaddress">
 <a>bentbowen@yahoo.com</a>
