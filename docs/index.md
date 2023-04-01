@@ -41,7 +41,7 @@ __Research and Business Development Center__, Rexburg, ID
 - Used ArcGIS to find latitude and logitude of draw areas on a map
 - Assisted in the creation of documentation for the R package
 
-### Addtional Skill
+### Addtional Skills
 - Statistical and Probability Analysis
 - Linear Regression
 - Python
