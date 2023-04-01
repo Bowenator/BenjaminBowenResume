@@ -3,11 +3,10 @@ layout: cv
 title: Benjamin Bowen's Resume
 ---
 # Benjamin Bowen
-
-
-<div id="webaddress">
-<a href="bentbowen@yahoo.com">Email</a>
+<div>
+<a href="bentbowen@yahoo.com">bentbowen@yahoo.com</a>
 | <a href="702-292-6944">702-292-6944</a>
+<div id="webaddress">
 | <a href="https://www.linkedin.com/in/benjamin-bowen-78ab9b183/">LinkedIn</a>
 | <a href="https://github.com/Bowenator">GitHub</a>
 </div>
