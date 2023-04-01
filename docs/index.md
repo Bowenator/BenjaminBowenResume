@@ -35,7 +35,7 @@ __Mission Suport and Test Services__, Las Vegas, NV
 ### Statistical and Data Science Consulting Team
 
 `January 2023 - April 2023`
-__Research and Business Development Center__, Rexburg, ID
+__BYU-I and RBDC__, Rexburg, ID
 
 - Contributed to the creation of an R package that calculates GDD from crops, location, and time
 - Used ArcGIS to find latitude and logitude of draw areas on a map
